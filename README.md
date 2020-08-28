@@ -1,0 +1,2 @@
+# Submer-SmartPod-X-Research
+During my Capstone (Senior) project to wrap up my time earning my B.S. in Computer Information Systems the Computer Science Class 4910 Capstone Seminar groups were assigned to work with industry partners to produce a deliverable to their specifications related to their technology. Submer donated their cutting edge completely immersive water cooled server rack to test the benefit and highlight the benefit of their patented product the SmartPod X.  
